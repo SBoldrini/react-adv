@@ -10,6 +10,9 @@ input, select {
     padding: 10px;
 }
 
+span {
+    margin-bottom: 10px;
+}
 
 button {
     margin-top: 20px;
